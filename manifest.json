@@ -2,8 +2,854 @@
     "modpack_version": "1.0.0",
     "minecraft_version": "1.21.1",
     "neoforge": {
-        "version": "21.1.172",
-        "url": ""
+        "version": "21.1.233",
+        "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/neoforge-21.1.233-installer.jar"
     },
-    "mods": []
+    "mods": [
+        {
+            "name": "aeronauticscompat-1.1.2",
+            "file": "aeronauticscompat-1.1.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/aeronauticscompat-1.1.2.jar"
+        },
+        {
+            "name": "AeroPropBlur-1.21.1-1.0a",
+            "file": "AeroPropBlur-1.21.1-1.0a.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/AeroPropBlur-1.21.1-1.0a.jar"
+        },
+        {
+            "name": "aero_cam_sync-1.3.1",
+            "file": "aero_cam_sync-1.3.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/aero_cam_sync-1.3.1.jar"
+        },
+        {
+            "name": "alexsmobs-1.22.17",
+            "file": "alexsmobs-1.22.17.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/alexsmobs-1.22.17.jar"
+        },
+        {
+            "name": "appleskin-neoforge-mc1.21-3.0.9",
+            "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/appleskin-neoforge-mc1.21-3.0.9.jar"
+        },
+        {
+            "name": "architectury-13.0.8-neoforge",
+            "file": "architectury-13.0.8-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/architectury-13.0.8-neoforge.jar"
+        },
+        {
+            "name": "balm-neoforge-1.21.1-21.0.58",
+            "file": "balm-neoforge-1.21.1-21.0.58.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/balm-neoforge-1.21.1-21.0.58.jar"
+        },
+        {
+            "name": "better-clouds-1.13.5-beta+1.21.1-neoforge.rev.a60dfa0",
+            "file": "better-clouds-1.13.5-beta+1.21.1-neoforge.rev.a60dfa0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/better-clouds-1.13.5-beta+1.21.1-neoforge.rev.a60dfa0.jar"
+        },
+        {
+            "name": "bettercombat-neoforge-2.3.2+1.21.1",
+            "file": "bettercombat-neoforge-2.3.2+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/bettercombat-neoforge-2.3.2+1.21.1.jar"
+        },
+        {
+            "name": "bettercombat-punchy-fix-1.0.1",
+            "file": "bettercombat-punchy-fix-1.0.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/bettercombat-punchy-fix-1.0.1.jar"
+        },
+        {
+            "name": "betterdays-1.21.1-3.3.6.3-NEOFORGE",
+            "file": "betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar"
+        },
+        {
+            "name": "BlockRunner-v21.1.2-1.21.1-NeoForge",
+            "file": "BlockRunner-v21.1.2-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/BlockRunner-v21.1.2-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "blurperfected-neoforge-5.3.2-rev.3+1.21.1",
+            "file": "blurperfected-neoforge-5.3.2-rev.3+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/blurperfected-neoforge-5.3.2-rev.3+1.21.1.jar"
+        },
+        {
+            "name": "born_in_chaos_[Neoforge]_1.21.1_1.7.5",
+            "file": "born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar"
+        },
+        {
+            "name": "burnt_basic-1.10.3.6-neoforge-1.21.1",
+            "file": "burnt_basic-1.10.3.6-neoforge-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/burnt_basic-1.10.3.6-neoforge-1.21.1.jar"
+        },
+        {
+            "name": "CameraOverhaul-v2.1.1-neoforge+mc[1.21-1.21.1]",
+            "file": "CameraOverhaul-v2.1.1-neoforge+mc[1.21-1.21.1].jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/CameraOverhaul-v2.1.1-neoforge+mc[1.21-1.21.1].jar"
+        },
+        {
+            "name": "carryon-neoforge-1.21.1-2.2.4.4",
+            "file": "carryon-neoforge-1.21.1-2.2.4.4.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/carryon-neoforge-1.21.1-2.2.4.4.jar"
+        },
+        {
+            "name": "CarryOnAeroCompat-1.21.1-1.1.1",
+            "file": "CarryOnAeroCompat-1.21.1-1.1.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/CarryOnAeroCompat-1.21.1-1.1.1.jar"
+        },
+        {
+            "name": "chatanimation-neoforge-1.21.1-1.1.3",
+            "file": "chatanimation-neoforge-1.21.1-1.1.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/chatanimation-neoforge-1.21.1-1.1.3.jar"
+        },
+        {
+            "name": "citadel-1.21.1-2.7.6",
+            "file": "citadel-1.21.1-2.7.6.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/citadel-1.21.1-2.7.6.jar"
+        },
+        {
+            "name": "climbable_ropes-2.0.1",
+            "file": "climbable_ropes-2.0.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/climbable_ropes-2.0.1.jar"
+        },
+        {
+            "name": "cloth-config-15.0.140-neoforge",
+            "file": "cloth-config-15.0.140-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/cloth-config-15.0.140-neoforge.jar"
+        },
+        {
+            "name": "collective-1.21.1-8.22",
+            "file": "collective-1.21.1-8.22.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/collective-1.21.1-8.22.jar"
+        },
+        {
+            "name": "Continents_26.1_v1.1.13",
+            "file": "Continents_26.1_v1.1.13.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Continents_26.1_v1.1.13.jar"
+        },
+        {
+            "name": "Controlling-neoforge-1.21.1-19.0.5",
+            "file": "Controlling-neoforge-1.21.1-19.0.5.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Controlling-neoforge-1.21.1-19.0.5.jar"
+        },
+        {
+            "name": "copycats-3.0.4+mc.1.21.1-neoforge",
+            "file": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+        },
+        {
+            "name": "Create Aeronautics Gyroscope Stabilizers",
+            "file": "Create Aeronautics Gyroscope Stabilizers.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Create Aeronautics Gyroscope Stabilizers.jar"
+        },
+        {
+            "name": "create-1.21.1-6.0.10",
+            "file": "create-1.21.1-6.0.10.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/create-1.21.1-6.0.10.jar"
+        },
+        {
+            "name": "create-aeronautics-bundled-1.21.1-1.2.1",
+            "file": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+        },
+        {
+            "name": "create-aeronautics-lift-patch-1.1.0",
+            "file": "create-aeronautics-lift-patch-1.1.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/create-aeronautics-lift-patch-1.1.0.jar"
+        },
+        {
+            "name": "create-dyn-light-2.3.1-sodium-sable",
+            "file": "create-dyn-light-2.3.1-sodium-sable.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/create-dyn-light-2.3.1-sodium-sable.jar"
+        },
+        {
+            "name": "create-dyn-light-forge-1.21.1-2.0.1",
+            "file": "create-dyn-light-forge-1.21.1-2.0.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/create-dyn-light-forge-1.21.1-2.0.1.jar"
+        },
+        {
+            "name": "create-hangars-V1.0.0",
+            "file": "create-hangars-V1.0.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/create-hangars-V1.0.0.jar"
+        },
+        {
+            "name": "create_aeronautics_throwable_rope_connector-0.3.0",
+            "file": "create_aeronautics_throwable_rope_connector-0.3.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/create_aeronautics_throwable_rope_connector-0.3.0.jar"
+        },
+        {
+            "name": "create_mf-0.1.1-neoforge-1.21.1",
+            "file": "create_mf-0.1.1-neoforge-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/create_mf-0.1.1-neoforge-1.21.1.jar"
+        },
+        {
+            "name": "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1",
+            "file": "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar"
+        },
+        {
+            "name": "CreeperOverhaul-neoforge-1.21.1-4.0.6",
+            "file": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
+        },
+        {
+            "name": "cristellib-neoforge-1.21.1-3.1.6",
+            "file": "cristellib-neoforge-1.21.1-3.1.6.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/cristellib-neoforge-1.21.1-3.1.6.jar"
+        },
+        {
+            "name": "croptopia-neoforge-1.21.1-4.2.4",
+            "file": "croptopia-neoforge-1.21.1-4.2.4.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/croptopia-neoforge-1.21.1-4.2.4.jar"
+        },
+        {
+            "name": "croptopiadelight-1.0.1",
+            "file": "croptopiadelight-1.0.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/croptopiadelight-1.0.1.jar"
+        },
+        {
+            "name": "curios-neoforge-9.5.1+1.21.1",
+            "file": "curios-neoforge-9.5.1+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/curios-neoforge-9.5.1+1.21.1.jar"
+        },
+        {
+            "name": "CutThrough-v21.1.0-1.21.1-NeoForge",
+            "file": "CutThrough-v21.1.0-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/CutThrough-v21.1.0-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "Data_Anchor-neoforge-1.21.1-2.0.0.13",
+            "file": "Data_Anchor-neoforge-1.21.1-2.0.0.13.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar"
+        },
+        {
+            "name": "delightlib-26.05.18-1.21-neoforge",
+            "file": "delightlib-26.05.18-1.21-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/delightlib-26.05.18-1.21-neoforge.jar"
+        },
+        {
+            "name": "DiagonalFences-v21.1.1-1.21.1-NeoForge",
+            "file": "DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/DiagonalFences-v21.1.1-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "DiagonalWalls-v21.1.2-1.21.1-NeoForge",
+            "file": "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "DiagonalWindows-v21.1.1-1.21.1-NeoForge",
+            "file": "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "dtcroptopia-1.1.0",
+            "file": "dtcroptopia-1.1.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/dtcroptopia-1.1.0.jar"
+        },
+        {
+            "name": "dtquark-2.6.1",
+            "file": "dtquark-2.6.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/dtquark-2.6.1.jar"
+        },
+        {
+            "name": "dtterralith-1.3.0",
+            "file": "dtterralith-1.3.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/dtterralith-1.3.0.jar"
+        },
+        {
+            "name": "DyedFlames-v21.1.1-1.21.1-NeoForge",
+            "file": "DyedFlames-v21.1.1-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/DyedFlames-v21.1.1-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge",
+            "file": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
+        },
+        {
+            "name": "DynamicTrees-AddonLib-DTteam-neoforge-1.21.1-0.2.0-BETA03",
+            "file": "DynamicTrees-AddonLib-DTteam-neoforge-1.21.1-0.2.0-BETA03.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/DynamicTrees-AddonLib-DTteam-neoforge-1.21.1-0.2.0-BETA03.jar"
+        },
+        {
+            "name": "dynamictrees-neoforge-1.21.1-1.7.1",
+            "file": "dynamictrees-neoforge-1.21.1-1.7.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/dynamictrees-neoforge-1.21.1-1.7.1.jar"
+        },
+        {
+            "name": "DynamicTreesPlus-neoforge-1.21.1-1.3.2",
+            "file": "DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar"
+        },
+        {
+            "name": "EasyMagic-v21.1.4-1.21.1-NeoForge",
+            "file": "EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/EasyMagic-v21.1.4-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "EffectDescriptions-v21.1.1-1.21.1-NeoForge",
+            "file": "EffectDescriptions-v21.1.1-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/EffectDescriptions-v21.1.1-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "effortlessbuilding-4.1+1.21.1",
+            "file": "effortlessbuilding-4.1+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/effortlessbuilding-4.1+1.21.1.jar"
+        },
+        {
+            "name": "endermanoverhaul-neoforge-1.21.1-2.0.3",
+            "file": "endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
+        },
+        {
+            "name": "entityculling-neoforge-1.10.2-mc1.21.1",
+            "file": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/entityculling-neoforge-1.10.2-mc1.21.1.jar"
+        },
+        {
+            "name": "EpheroLib-1.21.1-NEO-FORGE-1.2.0",
+            "file": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar"
+        },
+        {
+            "name": "etched-5.0.1",
+            "file": "etched-5.0.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/etched-5.0.1.jar"
+        },
+        {
+            "name": "expandeddelight-0.1.4",
+            "file": "expandeddelight-0.1.4.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/expandeddelight-0.1.4.jar"
+        },
+        {
+            "name": "FarmersDelight-1.21.1-1.3.2",
+            "file": "FarmersDelight-1.21.1-1.3.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/FarmersDelight-1.21.1-1.3.2.jar"
+        },
+        {
+            "name": "FastEvent-1.21.1-neoforge-1.1.2",
+            "file": "FastEvent-1.21.1-neoforge-1.1.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/FastEvent-1.21.1-neoforge-1.1.2.jar"
+        },
+        {
+            "name": "ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge",
+            "file": "ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "fowlplay-1.1.2+1.21.1-neoforge",
+            "file": "fowlplay-1.1.2+1.21.1-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/fowlplay-1.1.2+1.21.1-neoforge.jar"
+        },
+        {
+            "name": "friendsandfoes-neoforge-4.0.26+mc1.21.1",
+            "file": "friendsandfoes-neoforge-4.0.26+mc1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/friendsandfoes-neoforge-4.0.26+mc1.21.1.jar"
+        },
+        {
+            "name": "fwa+1.21.1-neoforge-1.2.24",
+            "file": "fwa+1.21.1-neoforge-1.2.24.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/fwa+1.21.1-neoforge-1.2.24.jar"
+        },
+        {
+            "name": "fzzy_config-0.7.6+1.21+neoforge",
+            "file": "fzzy_config-0.7.6+1.21+neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/fzzy_config-0.7.6+1.21+neoforge.jar"
+        },
+        {
+            "name": "gaboulibs-neoforge-1.4",
+            "file": "gaboulibs-neoforge-1.4.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/gaboulibs-neoforge-1.4.jar"
+        },
+        {
+            "name": "geckolib-neoforge-1.21.1-4.8.4",
+            "file": "geckolib-neoforge-1.21.1-4.8.4.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/geckolib-neoforge-1.21.1-4.8.4.jar"
+        },
+        {
+            "name": "ghosts-neoforge-1.21.1-1.3.3",
+            "file": "ghosts-neoforge-1.21.1-1.3.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/ghosts-neoforge-1.21.1-1.3.3.jar"
+        },
+        {
+            "name": "GlitchCore-neoforge-1.21.1-2.1.0.2",
+            "file": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+        },
+        {
+            "name": "golemoverhaul-neoforge-1.21.1-1.1.0",
+            "file": "golemoverhaul-neoforge-1.21.1-1.1.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/golemoverhaul-neoforge-1.21.1-1.1.0.jar"
+        },
+        {
+            "name": "golem_spawn_animation-1.1-neoforge-1.21.1",
+            "file": "golem_spawn_animation-1.1-neoforge-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/golem_spawn_animation-1.1-neoforge-1.21.1.jar"
+        },
+        {
+            "name": "HeldItemTooltips-v21.1.0-1.21.1-NeoForge",
+            "file": "HeldItemTooltips-v21.1.0-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/HeldItemTooltips-v21.1.0-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "Iceberg-1.21.1-neoforge-1.3.2",
+            "file": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Iceberg-1.21.1-neoforge-1.3.2.jar"
+        },
+        {
+            "name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1",
+            "file": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar"
+        },
+        {
+            "name": "immersivedamageindicators-neoforge-1.0.0-1.21.1",
+            "file": "immersivedamageindicators-neoforge-1.0.0-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/immersivedamageindicators-neoforge-1.0.0-1.21.1.jar"
+        },
+        {
+            "name": "immersivemessages-neoforge-1.0.18-1.21.1",
+            "file": "immersivemessages-neoforge-1.0.18-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/immersivemessages-neoforge-1.0.18-1.21.1.jar"
+        },
+        {
+            "name": "immersivetips-neoforge-1.0.2-1.21.1",
+            "file": "immersivetips-neoforge-1.0.2-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/immersivetips-neoforge-1.0.2-1.21.1.jar"
+        },
+        {
+            "name": "ItemPhysic_NEOFORGE_v1.8.13_mc1.21.1",
+            "file": "ItemPhysic_NEOFORGE_v1.8.13_mc1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/ItemPhysic_NEOFORGE_v1.8.13_mc1.21.1.jar"
+        },
+        {
+            "name": "jei-1.21.1-neoforge-19.27.0.340",
+            "file": "jei-1.21.1-neoforge-19.27.0.340.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/jei-1.21.1-neoforge-19.27.0.340.jar"
+        },
+        {
+            "name": "justzoom_neoforge_2.1.0_MC_1.21.1",
+            "file": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+        },
+        {
+            "name": "konkrete_neoforge_1.9.9_MC_1.21",
+            "file": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/konkrete_neoforge_1.9.9_MC_1.21.jar"
+        },
+        {
+            "name": "kotlinforforge-5.11.0-all",
+            "file": "kotlinforforge-5.11.0-all.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/kotlinforforge-5.11.0-all.jar"
+        },
+        {
+            "name": "Ksyxis-1.4.3",
+            "file": "Ksyxis-1.4.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Ksyxis-1.4.3.jar"
+        },
+        {
+            "name": "lithium-neoforge-0.15.3+mc1.21.1",
+            "file": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/lithium-neoforge-0.15.3+mc1.21.1.jar"
+        },
+        {
+            "name": "lithostitched-1.7.9-neoforge-21.1",
+            "file": "lithostitched-1.7.9-neoforge-21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/lithostitched-1.7.9-neoforge-21.1.jar"
+        },
+        {
+            "name": "loadsupport-neoforge-1.21.1-1.2.1",
+            "file": "loadsupport-neoforge-1.21.1-1.2.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/loadsupport-neoforge-1.21.1-1.2.1.jar"
+        },
+        {
+            "name": "lootr-neoforge-1.21.1-1.11.37.120",
+            "file": "lootr-neoforge-1.21.1-1.11.37.120.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/lootr-neoforge-1.21.1-1.11.37.120.jar"
+        },
+        {
+            "name": "mca-neoforge-7.7.8+1.21.1",
+            "file": "mca-neoforge-7.7.8+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/mca-neoforge-7.7.8+1.21.1.jar"
+        },
+        {
+            "name": "MerchantMarkers-1.21.1-neoforge-1.3.6",
+            "file": "MerchantMarkers-1.21.1-neoforge-1.3.6.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/MerchantMarkers-1.21.1-neoforge-1.3.6.jar"
+        },
+        {
+            "name": "midnightlib-neoforge-1.9.3+1.21.1",
+            "file": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/midnightlib-neoforge-1.9.3+1.21.1.jar"
+        },
+        {
+            "name": "Mod Menu (NeoForge Edition) 1.21.1-1.0.2",
+            "file": "Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar"
+        },
+        {
+            "name": "moonlight-neoforge-1.21.1-3.0.14",
+            "file": "moonlight-neoforge-1.21.1-3.0.14.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/moonlight-neoforge-1.21.1-3.0.14.jar"
+        },
+        {
+            "name": "moredelight-26.05.20a-1.21-neoforge",
+            "file": "moredelight-26.05.20a-1.21-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/moredelight-26.05.20a-1.21-neoforge.jar"
+        },
+        {
+            "name": "MoreVillagers-Re-1.21.1-neoforge-1.25.12.4",
+            "file": "MoreVillagers-Re-1.21.1-neoforge-1.25.12.4.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/MoreVillagers-Re-1.21.1-neoforge-1.25.12.4.jar"
+        },
+        {
+            "name": "mru-1.0.19+LTS+1.21.1+neoforge",
+            "file": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/mru-1.0.19+LTS+1.21.1+neoforge.jar"
+        },
+        {
+            "name": "NeoForge-Version-Serene Seasons Plus-1.21.1-4.2.3",
+            "file": "NeoForge-Version-Serene Seasons Plus-1.21.1-4.2.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/NeoForge-Version-Serene Seasons Plus-1.21.1-4.2.3.jar"
+        },
+        {
+            "name": "notenoughanimations-neoforge-1.12.3-mc1.21.1",
+            "file": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar"
+        },
+        {
+            "name": "OctoLib-NEOFORGE-0.6.2+1.21",
+            "file": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/OctoLib-NEOFORGE-0.6.2+1.21.jar"
+        },
+        {
+            "name": "ParCool-1.21.1-3.4.3.3-NF",
+            "file": "ParCool-1.21.1-3.4.3.3-NF.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/ParCool-1.21.1-3.4.3.3-NF.jar"
+        },
+        {
+            "name": "ParCool-CompatibilityAddon-1.21.1-3.4.3.1-1.1",
+            "file": "ParCool-CompatibilityAddon-1.21.1-3.4.3.1-1.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/ParCool-CompatibilityAddon-1.21.1-3.4.3.1-1.1.jar"
+        },
+        {
+            "name": "particle_core-0.3.3+1.21+neoforge",
+            "file": "particle_core-0.3.3+1.21+neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/particle_core-0.3.3+1.21+neoforge.jar"
+        },
+        {
+            "name": "particular-1.21.1-NeoForge-1.5.3",
+            "file": "particular-1.21.1-NeoForge-1.5.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/particular-1.21.1-NeoForge-1.5.3.jar"
+        },
+        {
+            "name": "Perception-NEOFORGE-0.2.1+1.21.1",
+            "file": "Perception-NEOFORGE-0.2.1+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Perception-NEOFORGE-0.2.1+1.21.1.jar"
+        },
+        {
+            "name": "PickUpNotifier-v21.1.1-1.21.1-NeoForge",
+            "file": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "player-animation-lib-forge-2.0.4+1.21.1",
+            "file": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/player-animation-lib-forge-2.0.4+1.21.1.jar"
+        },
+        {
+            "name": "powergrid-mc1.21.1-0.5.5.1",
+            "file": "powergrid-mc1.21.1-0.5.5.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/powergrid-mc1.21.1-0.5.5.1.jar"
+        },
+        {
+            "name": "punchy-2.5.5b-neoforge-1.21.1",
+            "file": "punchy-2.5.5b-neoforge-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/punchy-2.5.5b-neoforge-1.21.1.jar"
+        },
+        {
+            "name": "PuzzlesLib-v21.1.51-1.21.1-NeoForge",
+            "file": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "Quark-4.1-480",
+            "file": "Quark-4.1-480.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Quark-4.1-480.jar"
+        },
+        {
+            "name": "Quick Skin - NeoForge - 1.21.1-2.6.2.4",
+            "file": "Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar"
+        },
+        {
+            "name": "quickstack-1.21.1-neoforge-1.0.2",
+            "file": "quickstack-1.21.1-neoforge-1.0.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/quickstack-1.21.1-neoforge-1.0.2.jar"
+        },
+        {
+            "name": "resourcefulconfig-neoforge-1.21-3.0.11",
+            "file": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+        },
+        {
+            "name": "resourcefullib-neoforge-1.21-3.0.12",
+            "file": "resourcefullib-neoforge-1.21-3.0.12.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/resourcefullib-neoforge-1.21-3.0.12.jar"
+        },
+        {
+            "name": "RespawningAnimals-v21.1.2-1.21.1-NeoForge",
+            "file": "RespawningAnimals-v21.1.2-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/RespawningAnimals-v21.1.2-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "sable-neoforge-1.21.1-1.2.2",
+            "file": "sable-neoforge-1.21.1-1.2.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/sable-neoforge-1.21.1-1.2.2.jar"
+        },
+        {
+            "name": "sablecollisiondamage-1.0.7",
+            "file": "sablecollisiondamage-1.0.7.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/sablecollisiondamage-1.0.7.jar"
+        },
+        {
+            "name": "sable_new_sodium_compat-1.0.0",
+            "file": "sable_new_sodium_compat-1.0.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/sable_new_sodium_compat-1.0.0.jar"
+        },
+        {
+            "name": "seamless-loading-screen-2.2.1+1.21-neoforge",
+            "file": "seamless-loading-screen-2.2.1+1.21-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/seamless-loading-screen-2.2.1+1.21-neoforge.jar"
+        },
+        {
+            "name": "Searchables-neoforge-1.21.1-1.0.2",
+            "file": "Searchables-neoforge-1.21.1-1.0.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Searchables-neoforge-1.21.1-1.0.2.jar"
+        },
+        {
+            "name": "SereneSeasons-neoforge-1.21.1-10.1.0.3",
+            "file": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
+        },
+        {
+            "name": "simplyswords-neoforge-1.63.0-1.21.1",
+            "file": "simplyswords-neoforge-1.63.0-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/simplyswords-neoforge-1.63.0-1.21.1.jar"
+        },
+        {
+            "name": "SimplyTooltips-neoforge-0.1.3",
+            "file": "SimplyTooltips-neoforge-0.1.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/SimplyTooltips-neoforge-0.1.3.jar"
+        },
+        {
+            "name": "skinlayers3d-neoforge-1.11.1-mc1.21.1",
+            "file": "skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar"
+        },
+        {
+            "name": "sliceanddice-forge-4.2.4",
+            "file": "sliceanddice-forge-4.2.4.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/sliceanddice-forge-4.2.4.jar"
+        },
+        {
+            "name": "SmartBrainLib-neoforge-1.21.1-1.16.11",
+            "file": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+        },
+        {
+            "name": "SmoothBoot-NeoForge+1.21-1.0.0",
+            "file": "SmoothBoot-NeoForge+1.21-1.0.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/SmoothBoot-NeoForge+1.21-1.0.0.jar"
+        },
+        {
+            "name": "sodium-neoforge-0.8.12-alpha.4+mc1.21.1",
+            "file": "sodium-neoforge-0.8.12-alpha.4+mc1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/sodium-neoforge-0.8.12-alpha.4+mc1.21.1.jar"
+        },
+        {
+            "name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1",
+            "file": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+        },
+        {
+            "name": "someassemblyrequired-5.2.8",
+            "file": "someassemblyrequired-5.2.8.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/someassemblyrequired-5.2.8.jar"
+        },
+        {
+            "name": "sounds-2.4.22+lts+1.21.1-neoforge",
+            "file": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/sounds-2.4.22+lts+1.21.1-neoforge.jar"
+        },
+        {
+            "name": "sound_physics_perfected-1.17.2+1.21.1-neoforge",
+            "file": "sound_physics_perfected-1.17.2+1.21.1-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/sound_physics_perfected-1.17.2+1.21.1-neoforge.jar"
+        },
+        {
+            "name": "spelunkery-1.21.1-0.4.2-neoforge",
+            "file": "spelunkery-1.21.1-0.4.2-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/spelunkery-1.21.1-0.4.2-neoforge.jar"
+        },
+        {
+            "name": "startuptime-1.0.0",
+            "file": "startuptime-1.0.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/startuptime-1.0.0.jar"
+        },
+        {
+            "name": "Structory_Towers_26.1_v1.0.16",
+            "file": "Structory_Towers_26.1_v1.0.16.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Structory_Towers_26.1_v1.0.16.jar"
+        },
+        {
+            "name": "TerraBlender-neoforge-1.21.1-4.1.0.8",
+            "file": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+        },
+        {
+            "name": "Terralith_1.21.x_v2.5.8",
+            "file": "Terralith_1.21.x_v2.5.8.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Terralith_1.21.x_v2.5.8.jar"
+        },
+        {
+            "name": "tide-neoforge-1.21.1-2.0.3",
+            "file": "tide-neoforge-1.21.1-2.0.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/tide-neoforge-1.21.1-2.0.3.jar"
+        },
+        {
+            "name": "tooltipoverhaul-neoforge-1.21.1-1.4.4",
+            "file": "tooltipoverhaul-neoforge-1.21.1-1.4.4.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/tooltipoverhaul-neoforge-1.21.1-1.4.4.jar"
+        },
+        {
+            "name": "trek-B0.6.1.1",
+            "file": "trek-B0.6.1.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/trek-B0.6.1.1.jar"
+        },
+        {
+            "name": "txnilib-neoforge-1.0.24-1.21.1",
+            "file": "txnilib-neoforge-1.0.24-1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+        },
+        {
+            "name": "t_and_t-neoforge-fabric-1.13.9+1.21.1",
+            "file": "t_and_t-neoforge-fabric-1.13.9+1.21.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/t_and_t-neoforge-fabric-1.13.9+1.21.1.jar"
+        },
+        {
+            "name": "ubesdelight-neoforge-1.21.1-0.4.13",
+            "file": "ubesdelight-neoforge-1.21.1-0.4.13.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/ubesdelight-neoforge-1.21.1-0.4.13.jar"
+        },
+        {
+            "name": "UniversalBoneMeal-v21.1.0-1.21.1-NeoForge",
+            "file": "UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "u_sea-1.2.5+mc1.19-1.21.11",
+            "file": "u_sea-1.2.5+mc1.19-1.21.11.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/u_sea-1.2.5+mc1.19-1.21.11.jar"
+        },
+        {
+            "name": "veil-neoforge-1.21.1-4.1.2",
+            "file": "veil-neoforge-1.21.1-4.1.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/veil-neoforge-1.21.1-4.1.2.jar"
+        },
+        {
+            "name": "via_romana-2.2.2+1.21.1-neoforge",
+            "file": "via_romana-2.2.2+1.21.1-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/via_romana-2.2.2+1.21.1-neoforge.jar"
+        },
+        {
+            "name": "Villager-API-1.21.1-neoforge-1.26.1.3",
+            "file": "Villager-API-1.21.1-neoforge-1.26.1.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Villager-API-1.21.1-neoforge-1.26.1.3.jar"
+        },
+        {
+            "name": "villainousfishai-neoforge-1.21.1-1.2",
+            "file": "villainousfishai-neoforge-1.21.1-1.2.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/villainousfishai-neoforge-1.21.1-1.2.jar"
+        },
+        {
+            "name": "visualhealth-neoforge-1.21.1-2.0.1",
+            "file": "visualhealth-neoforge-1.21.1-2.0.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/visualhealth-neoforge-1.21.1-2.0.1.jar"
+        },
+        {
+            "name": "VisualWorkbench-v21.1.1-1.21.1-NeoForge",
+            "file": "VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "Waves-1.21.x-1.6",
+            "file": "Waves-1.21.x-1.6.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Waves-1.21.x-1.6.jar"
+        },
+        {
+            "name": "windy-1.1.1+1.21-neoforge",
+            "file": "windy-1.1.1+1.21-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/windy-1.1.1+1.21-neoforge.jar"
+        },
+        {
+            "name": "xaeroworldmap-neoforge-1.21.1-1.40.16",
+            "file": "xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
+        },
+        {
+            "name": "XaeroZoomout-NeoForge-1.21-2.0.0",
+            "file": "XaeroZoomout-NeoForge-1.21-2.0.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/XaeroZoomout-NeoForge-1.21-2.0.0.jar"
+        },
+        {
+            "name": "yeetusexperimentus-neoforge-87.0.0",
+            "file": "yeetusexperimentus-neoforge-87.0.0.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/yeetusexperimentus-neoforge-87.0.0.jar"
+        },
+        {
+            "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge",
+            "file": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+        },
+        {
+            "name": "YungsApi-1.21.1-NeoForge-5.1.6",
+            "file": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/YungsApi-1.21.1-NeoForge-5.1.6.jar"
+        },
+        {
+            "name": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5",
+            "file": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+        },
+        {
+            "name": "YungsBridges-1.21.1-NeoForge-5.1.1",
+            "file": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+        },
+        {
+            "name": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1",
+            "file": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar"
+        },
+        {
+            "name": "YungsExtras-1.21.1-NeoForge-5.1.1",
+            "file": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+        },
+        {
+            "name": "Zeta-1.1-40",
+            "file": "Zeta-1.1-40.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/Zeta-1.1-40.jar"
+        },
+        {
+            "name": "zfastnoise-1.0.11a+1.21+neoforge",
+            "file": "zfastnoise-1.0.11a+1.21+neoforge.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/zfastnoise-1.0.11a+1.21+neoforge.jar"
+        },
+        {
+            "name": "[Neoforge]ctov-3.6.3",
+            "file": "[Neoforge]ctov-3.6.3.jar",
+            "url": "https://github.com/BruBread/McModpack/releases/download/v1.0/[Neoforge]ctov-3.6.3.jar"
+        }
+    ]
 }
